@@ -13,7 +13,7 @@ Table of Contents
 
 [3. Methodology](#Methodology)
 
-[4. Model Architecture](#ModelArchitecture)
+[4. Architecture](#Architecture)
 
 [5. Results](#Results)
 
@@ -91,7 +91,7 @@ The primary goal of this project is to develop a deep learning-based system capa
    - Measured accuracy, F1-score, and AUC on mouth, eyes, and eyebrow regions  
    
 
-## Model Architecture
+## Architecture
 
 
 - **Base Model**:  
