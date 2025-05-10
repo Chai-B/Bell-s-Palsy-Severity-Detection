@@ -1,7 +1,7 @@
 
-# Bell’s Palsy: Automated Detection using Deep Learning
+# Bell’s Palsy: Severity Detection using Deep Learning
 
-Bell’s Palsy: Automated Detection using Deep Learning
+Bell’s Palsy: Severity Detection using Deep Learning
 
 Table of Contents
 -
